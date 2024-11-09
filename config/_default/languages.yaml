@@ -8,6 +8,14 @@ fr:
   languageName: Français
   params:
     social:
+      email: >-
+        julie.salha@gmail.com
+      youtube: >-
+        https://www.youtube.com/@juliechoukettemusic
+      instagram: >-
+        https://www.instagram.com/julie.choukette.officiel/
+      facebook: >-
+        https://www.facebook.com/julie.choukette.music/
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
