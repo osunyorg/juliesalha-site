@@ -19,8 +19,6 @@ fr:
       tiktok: >-
         https://www.tiktok.com/@julie.choukette.music.o
   permalinks:
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     posts: /actualites/:year-:month-:day-:slug/
