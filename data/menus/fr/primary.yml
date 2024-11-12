@@ -5,4 +5,8 @@ items:
   target: ''
   kind: blank
   children: []
+- title: agenda
+  target: ''
+  kind: blank
+  children: []
 
