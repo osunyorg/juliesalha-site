@@ -2,7 +2,7 @@
 
 fr:
   title: >-
-    Site
+    Julie Choukette
   contentDir: content/fr
   languageCode: fr
   languageName: Français
@@ -19,10 +19,15 @@ fr:
       tiktok: >-
         https://www.tiktok.com/@julie.choukette.music.o
   permalinks:
+    events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
+    authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
