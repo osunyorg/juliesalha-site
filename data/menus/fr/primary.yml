@@ -1,8 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: agenda
-  target: ''
-  kind: blank
-  children: []
+items: []
 
