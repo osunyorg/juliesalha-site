@@ -1,10 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: actualités
-  target: ''
-  kind: blank
-  children: []
 - title: agenda
   target: ''
   kind: blank
