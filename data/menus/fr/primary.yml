@@ -13,4 +13,8 @@ items:
   target: https://www.tiktok.com/@julie.choukette.music.o
   kind: url
   children: []
+- title: Youtube
+  target: https://www.youtube.com/@juliechoukettemusic
+  kind: url
+  children: []
 
