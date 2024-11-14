@@ -1,0 +1,38 @@
+// ==============================================
+// HOME
+// ==============================================
+
+// Presentation album
+
+.hero
+    .content
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+
+        .hero-text
+            margin-bottom: .5rem;
+            margin-top: .5rem;
+    .image-portrait
+        margin-bottom: .5rem;
+
+@include media-breakpoint-up(md)
+    .hero  
+        .image-portrait
+            width: 50%;
+            max-width: 50%;
+
+@include media-breakpoint-up(lg)
+    .hero--image-portrait 
+        .content 
+            flex-direction: row-reverse;
+            .hero-text
+                width: calc( (var(--column-width) * 3) + var(--grid-gutter) * ( 8 - 1 ))
+            figure
+                width: calc( (var(--column-width) * 13) + var(--grid-gutter) * ( 3 - 1 ))
+
+
+    
+
+
+
