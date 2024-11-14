@@ -5,16 +5,16 @@ items:
   target: https://www.instagram.com/julie.choukette.music.officiel/
   kind: url
   children: []
+- title: Youtube
+  target: https://www.youtube.com/@juliechoukettemusic
+  kind: url
+  children: []
 - title: Facebook
   target: https://www.facebook.com/julie.choukette.music
   kind: url
   children: []
 - title: TikTok
   target: https://www.tiktok.com/@julie.choukette.music.o
-  kind: url
-  children: []
-- title: Youtube
-  target: https://www.youtube.com/@juliechoukettemusic
   kind: url
   children: []
 
