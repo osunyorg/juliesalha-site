@@ -6,3 +6,38 @@
     header#document-header nav:not(.upper-menu)
         padding-bottom: 1rem;
         padding-top: 1rem;
+
+
+// Menu principal - Réseaux sociaux
+#navigation
+    .nav-level-1
+        li
+            a
+                border-bottom: 2px solid $c-white;
+            a[title="Instagram - lien externe"]
+                @include icon('instagram-fill')
+            a[title="Youtube - lien externe"]
+                @include icon('youtube-fill')
+            a[title="TikTok - lien externe"]
+                @include icon('tiktok-fill')
+            a[title="Facebook - lien externe"]
+                @include icon('facebook-fill')
+            a:before
+                display: inline-block
+                margin-right: 4px
+                color: $c-black
+                vertical-align: middle
+                border-radius: 10%
+                width: 18px
+                height: 18px
+                line-height: 18px
+                text-align: center
+            a:after
+                content: ''
+                display: none
+            a:hover
+                border-bottom: 2px solid $c-black;
+                text-decoration: none;
+                transition: .3s;
+
+
