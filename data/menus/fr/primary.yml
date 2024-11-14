@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Instagram
+  target: https://www.instagram.com/julie.choukette.music.officiel/
+  kind: url
+  children: []
 
