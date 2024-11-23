@@ -19,6 +19,8 @@ fr:
       tiktok: >-
         https://www.tiktok.com/@julie.choukette.music.o
   permalinks:
+    persons: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
