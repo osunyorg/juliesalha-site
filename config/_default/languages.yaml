@@ -7,17 +7,35 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        julie.salha@gmail.com
-      youtube: >-
-        https://www.youtube.com/@juliechoukettemusic
-      instagram: >-
-        https://www.instagram.com/julie.choukette.music.officiel/
-      facebook: >-
-        https://www.facebook.com/julie.choukette.music/
-      tiktok: >-
-        https://www.tiktok.com/@julie.choukette.music.o
+    contact_details:
+      emails:
+        email:
+          label: >-
+            julie.salha@gmail.com
+          value: >-
+            mailto:julie.salha@gmail.com
+      social_networks:
+        facebook:
+          label: >-
+            julie.choukette.music
+          value: >-
+            https://www.facebook.com/julie.choukette.music
+        instagram:
+          label: >-
+            julie.choukette.music.officiel
+          value: >-
+            https://instagram.com/julie.choukette.music.officiel
+        tiktok:
+          label: >-
+            julie.choukette.music.o
+          value: >-
+            https://www.tiktok.com/@julie.choukette.music.o
+        youtube:
+          label: >-
+            juliechoukettemusic
+          value: >-
+            https://www.youtube.com/@juliechoukettemusic
+
   permalinks:
     persons: /equipe/:slug/
     persons_categories: /equipe/categories/:slug/
