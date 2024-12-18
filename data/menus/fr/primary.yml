@@ -4,17 +4,21 @@ items:
 - title: Instagram
   target: https://www.instagram.com/julie.choukette.music.officiel/
   kind: url
+  new_tab: true
   children: []
 - title: Youtube
   target: https://www.youtube.com/@juliechoukettemusic
   kind: url
+  new_tab: true
   children: []
 - title: TikTok
   target: https://www.tiktok.com/@julie.choukette.music.o
   kind: url
+  new_tab: true
   children: []
 - title: Facebook
   target: https://www.facebook.com/julie.choukette.music
   kind: url
+  new_tab: true
   children: []
 
