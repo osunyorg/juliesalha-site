@@ -2,6 +2,11 @@
 
 baseURL: https://www.juliechoukette.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: c57769fd-927b-4f85-a52c-3b5656ff2db8
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
