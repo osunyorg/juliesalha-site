@@ -37,10 +37,6 @@ fr:
           value: >-
             https://www.youtube.com/@juliechoukettemusic
 
-  permalinks:
-    pages_categories: /:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
