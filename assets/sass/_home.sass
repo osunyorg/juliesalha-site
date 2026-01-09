@@ -3,37 +3,25 @@
 // ==============================================
 
 // Presentation album
+.page__home
+    @include media-breakpoint-down(mobile)
+        .hero
+            .content
+                display: flex
+                flex-direction: column-reverse
+                align-items: center
+                .hero-text
+                    margin-bottom: .5rem
+                    margin-top: .5rem
+            .image-portrait
+                margin-bottom: .5rem
 
-.hero
-    .content
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: center;
-
-        .hero-text
-            margin-bottom: .5rem;
-            margin-top: .5rem;
-    .image-portrait
-        margin-bottom: .5rem;
-
-@include media-breakpoint-up(md)
-    .hero  
-        .image-portrait
-            width: 50%;
-            max-width: 50%;
-
-@include media-breakpoint-up(lg)
-    .hero--image-portrait 
-        .content 
-            padding-top: 1rem;
-            flex-direction: row-reverse;
-            .hero-text
-                width: calc( (var(--column-width) * 3) + var(--grid-gutter) * ( 8 - 1 ));
-            figure
-                width: calc( (var(--column-width) * 13) + var(--grid-gutter) * ( 3 - 1 ));
-
-
-    
-
-
-
+    @include media-breakpoint-up(lg)
+        .hero
+            .content 
+                flex-direction: row-reverse
+                padding-top: 1rem
+                .hero-text
+                    width: columns(6)
+                figure
+                    width: columns(6)
