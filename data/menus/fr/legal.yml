@@ -1,6 +1,11 @@
 ---
 title: Informations légales
 items:
+- title: Newsletter
+  target: ''
+  kind: url
+  new_tab: true
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
