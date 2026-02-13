@@ -2,23 +2,31 @@
 title: Menu principal
 items:
 - title: Instagram
+  slug: instagram
   target: https://www.instagram.com/julie.choukette.music.officiel/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Youtube
+  slug: youtube
   target: https://www.youtube.com/@juliechoukettemusic
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: TikTok
+  slug: tiktok
   target: https://www.tiktok.com/@julie.choukette.music.o
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Facebook
+  slug: facebook
   target: https://www.facebook.com/julie.choukette.music
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
