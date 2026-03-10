@@ -8,3 +8,4 @@ allowed_domains:
   - "fonts.googleapis.com"
   - "fonts.gstatic.com"
   - "www.w3.org"
+  - "6fdca905.sibforms.com"
