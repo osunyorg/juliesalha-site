@@ -14,3 +14,11 @@ params:
   home:
     toc:
       disabled: false
+  menu:
+    primary:
+      level_1:
+        dropdown: true
+        summary:
+          active: false
+          source: "Summary" # "Summary" | "meta_description"
+          truncate: 125
