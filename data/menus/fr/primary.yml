@@ -1,6 +1,15 @@
 ---
 title: Menu réseaux
 items:
+- title: Biographie
+  slug: biographie
+  target: "/biographie/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/biographie"
+  file: content/fr/pages/biographie/_index.html
 - title: Portfolio
   slug: portfolio
   target: "/portfolio/"

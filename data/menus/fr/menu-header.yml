@@ -10,4 +10,13 @@ items:
   descendants_targets: []
   path: "/pages/portfolio"
   file: content/fr/pages/portfolio/_index.html
+- title: Biographie
+  slug: biographie
+  target: "/biographie/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/biographie"
+  file: content/fr/pages/biographie/_index.html
 
