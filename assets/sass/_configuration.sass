@@ -22,11 +22,22 @@ $footer-background-color: none
         .actions
                 margin-bottom: 1rem;
 
+$tablet: 768px
+$laptop: 1440px
+
 header
         padding-bottom: 2rem !important;
-        .block-class-form-petit-coeur
-            margin: 0 0;
+
+.block-class-form-petit-coeur
+         margin: 0 0;
         iframe
-          width: 100%
-          height: 162vw // mobile par défaut
-                
+          height: 162vw
+        
+        @media (min-width: $tablet)
+          iframe
+            height: 103vw
+        
+        @media (min-width: $laptop)
+          iframe
+            height: 73vw
+            
