@@ -15,94 +15,94 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/2025/08/index.html"
+from = "/2025/08/"
 to = "/agenda/2025/08/"
 
 [[redirects]]
-from = "/agenda/2025-01-12-concert-1/index.html"
+from = "/agenda/2025-01-12-concert-1/"
 to = "/agenda/2025/concert-1/"
 
 [[redirects]]
-from = "/julie-salha/actualites/index.html"
+from = "/julie-salha/actualites/"
 to = "/equipe/julie-salha/actualites/"
 
 [[redirects]]
-from = "/2025/01/index.html"
+from = "/2025/01/"
 to = "/agenda/2025/01/"
 
 [[redirects]]
-from = "/2025/12/index.html"
+from = "/2025/12/"
 to = "/agenda/2025/12/"
 
 [[redirects]]
-from = "/2025/11/index.html"
+from = "/2025/11/"
 to = "/agenda/2025/11/"
 
 [[redirects]]
-from = "/julie-salha/index.html"
+from = "/julie-salha/"
 to = "/equipe/julie-salha/"
 
 [[redirects]]
-from = "/2025/concert-3/index.html"
+from = "/2025/concert-3/"
 to = "/agenda/2025/concert-3/"
 
 [[redirects]]
-from = "/2025/05/index.html"
+from = "/2025/05/"
 to = "/agenda/2025/05/"
 
 [[redirects]]
-from = "/2025/10/index.html"
+from = "/2025/10/"
 to = "/agenda/2025/10/"
 
 [[redirects]]
-from = "/2025/02/index.html"
+from = "/2025/02/"
 to = "/agenda/2025/02/"
 
 [[redirects]]
-from = "/agenda/2025-02-13-concert-2/index.html"
+from = "/agenda/2025-02-13-concert-2/"
 to = "/agenda/2025/concert-2/"
 
 [[redirects]]
-from = "/2025/concert-2/index.html"
+from = "/2025/concert-2/"
 to = "/agenda/2025/concert-2/"
 
 [[redirects]]
-from = "/2025/07/index.html"
+from = "/2025/07/"
 to = "/agenda/2025/07/"
 
 [[redirects]]
-from = "/2025/09/index.html"
+from = "/2025/09/"
 to = "/agenda/2025/09/"
 
 [[redirects]]
-from = "/2025/06/index.html"
+from = "/2025/06/"
 to = "/agenda/2025/06/"
 
 [[redirects]]
-from = "/cta-1/index.html"
+from = "/cta-1/"
 to = "/free/"
 
 [[redirects]]
-from = "/2025/index.html"
+from = "/2025/"
 to = "/agenda/2025/"
 
 [[redirects]]
-from = "/concert/index.html"
+from = "/concert/"
 to = "/agenda/concert/"
 
 [[redirects]]
-from = "/2025/03/index.html"
+from = "/2025/03/"
 to = "/agenda/2025/03/"
 
 [[redirects]]
-from = "/agenda/2025-03-14-concert-3/index.html"
+from = "/agenda/2025-03-14-concert-3/"
 to = "/agenda/2025/concert-3/"
 
 [[redirects]]
-from = "/2025/04/index.html"
+from = "/2025/04/"
 to = "/agenda/2025/04/"
 
 [[redirects]]
-from = "/2025/concert-1/index.html"
+from = "/2025/concert-1/"
 to = "/agenda/2025/concert-1/"
 
