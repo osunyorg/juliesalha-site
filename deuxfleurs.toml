@@ -13,3 +13,96 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/2025/08/index.html"
+to = "/agenda/2025/08/"
+
+[[redirects]]
+from = "/agenda/2025-01-12-concert-1/index.html"
+to = "/agenda/2025/concert-1/"
+
+[[redirects]]
+from = "/julie-salha/actualites/index.html"
+to = "/equipe/julie-salha/actualites/"
+
+[[redirects]]
+from = "/2025/01/index.html"
+to = "/agenda/2025/01/"
+
+[[redirects]]
+from = "/2025/12/index.html"
+to = "/agenda/2025/12/"
+
+[[redirects]]
+from = "/2025/11/index.html"
+to = "/agenda/2025/11/"
+
+[[redirects]]
+from = "/julie-salha/index.html"
+to = "/equipe/julie-salha/"
+
+[[redirects]]
+from = "/2025/concert-3/index.html"
+to = "/agenda/2025/concert-3/"
+
+[[redirects]]
+from = "/2025/05/index.html"
+to = "/agenda/2025/05/"
+
+[[redirects]]
+from = "/2025/10/index.html"
+to = "/agenda/2025/10/"
+
+[[redirects]]
+from = "/2025/02/index.html"
+to = "/agenda/2025/02/"
+
+[[redirects]]
+from = "/agenda/2025-02-13-concert-2/index.html"
+to = "/agenda/2025/concert-2/"
+
+[[redirects]]
+from = "/2025/concert-2/index.html"
+to = "/agenda/2025/concert-2/"
+
+[[redirects]]
+from = "/2025/07/index.html"
+to = "/agenda/2025/07/"
+
+[[redirects]]
+from = "/2025/09/index.html"
+to = "/agenda/2025/09/"
+
+[[redirects]]
+from = "/2025/06/index.html"
+to = "/agenda/2025/06/"
+
+[[redirects]]
+from = "/cta-1/index.html"
+to = "/free/"
+
+[[redirects]]
+from = "/2025/index.html"
+to = "/agenda/2025/"
+
+[[redirects]]
+from = "/concert/index.html"
+to = "/agenda/concert/"
+
+[[redirects]]
+from = "/2025/03/index.html"
+to = "/agenda/2025/03/"
+
+[[redirects]]
+from = "/agenda/2025-03-14-concert-3/index.html"
+to = "/agenda/2025/concert-3/"
+
+[[redirects]]
+from = "/2025/04/index.html"
+to = "/agenda/2025/04/"
+
+[[redirects]]
+from = "/2025/concert-1/index.html"
+to = "/agenda/2025/concert-1/"
+
